@@ -16,6 +16,5 @@ public static void main(String[] args) {
 //	System.out.println(ans);
 	int msb= Integer.highestOneBit(n);
 	System.out.println(msb);
-			
 }
 }
